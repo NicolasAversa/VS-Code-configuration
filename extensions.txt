@@ -20,7 +20,6 @@ ms-vscode-remote.remote-wsl
 naumovs.color-highlight
 PKief.material-icon-theme
 richie5um2.vscode-sort-json
-silvenon.mdx
 streetsidesoftware.code-spell-checker
 Tyriar.sort-lines
 usernamehw.errorlens

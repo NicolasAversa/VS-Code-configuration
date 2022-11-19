@@ -16,14 +16,14 @@
 		"editor.guides.bracketPairs": "active",
 		"editor.linkedEditing": true,
 		"editor.wordWrap": "on",
-		"eslint.alwaysShowStatus": true,
-		"eslint.format.enable": true,
-		"eslint.lintTask.enable": true,
 		"files.eol": "\n",
 		"terminal.integrated.defaultProfile.windows": "Command Prompt",
 		"workbench.colorTheme": "Noctis Bordo",
 		"workbench.iconTheme": "material-icon-theme",
 		// Web development
+		"eslint.alwaysShowStatus": true,
+		"eslint.format.enable": true,
+		"eslint.lintTask.enable": true,
 		"tailwindCSS.includeLanguages": {
 			"plaintext": "javascript"
 		},

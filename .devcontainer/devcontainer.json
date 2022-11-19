@@ -1,0 +1,36 @@
+{
+	"name": "Default Linux Universal",
+	"image": "mcr.microsoft.com/devcontainers/universal:2-linux",
+	"extensions": [
+		"liviuschera.noctis",
+		"PKief.material-icon-theme"
+	],
+	"settings": {
+		"editor.bracketPairColorization.enabled": true,
+		"editor.cursorStyle": "block",
+		"editor.fontFamily": "'JetBrains Mono', 'Fire Code', Consolas, 'Courier New', monospace",
+		"editor.fontLigatures": true,
+		"editor.fontSize": 16,
+		"editor.formatOnSave": true,
+		"editor.formatOnType": true,
+		"editor.guides.bracketPairs": "active",
+		"editor.linkedEditing": true,
+		"editor.wordWrap": "on",
+		"eslint.alwaysShowStatus": true,
+		"eslint.format.enable": true,
+		"eslint.lintTask.enable": true,
+		"files.eol": "\n",
+		"terminal.integrated.defaultProfile.windows": "Command Prompt",
+		"workbench.colorTheme": "Noctis Bordo",
+		"workbench.iconTheme": "material-icon-theme",
+		// Web development
+		"tailwindCSS.includeLanguages": {
+			"plaintext": "javascript"
+		},
+		// Docker
+		"docker.dockerComposeDetached": false,
+		// Python
+		"python.formatting.provider": "black",
+		"python.linting.flake8Enabled": true
+	}
+}

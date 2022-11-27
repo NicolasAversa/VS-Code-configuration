@@ -1,31 +1,42 @@
 {
-    "web": [
-        "aaron-bond.better-comments",
-        "amatiasq.sort-imports",
-        "bradlc.vscode-tailwindcss",
-        "christian-kohler.npm-intellisense",
-        "christian-kohler.path-intellisense",
-        "dbaeumer.vscode-eslint",
-        "dsznajder.es7-react-js-snippets",
-        "eamodio.gitlens",
-        "esbenp.prettier-vscode",
-        "formulahendry.auto-close-tag",
-        "formulahendry.auto-rename-tag",
-        "humao.rest-client",
-        "johnpapa.vscode-peacock",
-        "liviuschera.noctis",
-        "mikehanson.auto-barrel",
-        "mikestead.dotenv",
-        "ms-azuretools.vscode-docker",
-        "ms-vscode-remote.remote-containers",
-        "ms-vscode-remote.remote-wsl",
-        "naumovs.color-highlight",
-        "PKief.material-icon-theme",
-        "richie5um2.vscode-sort-json",
-        "streetsidesoftware.code-spell-checker",
-        "Tyriar.sort-lines",
-        "usernamehw.errorlens",
-        "wix.vscode-import-cost",
-        "yzhang.markdown-all-in-one"
-    ]
+  "web": [
+    // Developer experience
+    "aaron-bond.better-comments",
+    "amatiasq.sort-imports",
+    "johnpapa.vscode-peacock",
+    "humao.rest-client",
+    "mikestead.dotenv",
+    "naumovs.color-highlight",
+    "usernamehw.errorlens",
+    "wix.vscode-import-cost",
+    // Dependency management
+    "christian-kohler.npm-intellisense",
+    // Web Development - Productivity
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.path-intellisense",
+    "dsznajder.es7-react-js-snippets",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "mikehanson.auto-barrel",
+    // Code quality
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "standard.vscode-standard",
+    "streetsidesoftware.code-spell-checker",
+    // Git
+    "eamodio.gitlens",
+    // Theme
+    "liviuschera.noctis",
+    "PKief.material-icon-theme",
+    // Docker
+    "ms-azuretools.vscode-docker",
+    // WSL
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-wsl",
+    // General productivity
+    "richie5um2.vscode-sort-json",
+    "Tyriar.sort-lines",
+    // Markdown
+    "yzhang.markdown-all-in-one"
+  ]
 }
